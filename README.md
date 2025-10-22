@@ -7,8 +7,7 @@
 ---
 
 ### 🚀 About Me
-- 🎯 Currently exploring **real-time systems**, **Vue.js**, **Spring Boot**, and **Android development**  
-- 🤝 Mentor in the *Wasl Mentorship Program* — helping others grow while learning together  
+- 🤝 Mentor in the *Wasl Mentorship Program* www.waslksa.space — helping others grow while learning together  
 - 💬 President of the *Saudi Association* at UM, where I help organize cultural and community events  
 - 💻 Love tinkering with code, automating tasks, and learning how different technologies connect  
 - 🌱 Exploring **automation**, **AI**, and **software testing** — one project at a time  
