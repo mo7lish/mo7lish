@@ -121,11 +121,6 @@ I believe in learning through immersion. Here's where I've been:
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mo7lish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide=stars" height="160" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mo7lish&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="160" alt="streak" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mo7lish&custom_title=Contribution%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area_color=58A6FF&area=true&hide_border=true" width="95%" alt="activity"/>
 </div>
 
