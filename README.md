@@ -8,7 +8,7 @@
 ║     CALLER     │  Mohammed Alshamrani                      ║
 ║     LOCATION   │  Riyadh, Saudi Arabia · UTC+3             ║
 ║     STATUS     │  Software Engineer @ Sarj.ai              ║
-║     LANGUAGES  │  ar · en · ms                             ║
+║     LANGUAGES  │  ar · en · bm                             ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
